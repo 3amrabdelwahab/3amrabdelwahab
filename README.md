@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=About-us-_3oTeam&color=00cf00)
 
+![Visitor Count](https://profile-counter.glitch.me/{3amrabdelwahab.About-us-_3oTeam}/count.svg)
+
 <!--
 **3amrabdelwahab/3amrabdelwahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
