@@ -1,7 +1,7 @@
 ### Hi there I'm Amr Abdelwahab 👋
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=About-us-_3oTeam&color=00cf00)
 
-My dream is to be a Frontend Web Developer.
+My dream is to be a Developer for Desktop application and Frontend Web-design.
 I have good experience in building responsive UI Websites using HTML5, CSS, JavaScript. So far I have HTML5, CSS, JavaScript, and Git/GitHub under my belt.
 
 
